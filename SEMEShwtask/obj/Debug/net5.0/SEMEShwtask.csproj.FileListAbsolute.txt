@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.exe
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.deps.json
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.dll
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\ref\SEMEShwtask.dll
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\bin\Debug\net5.0\SEMEShwtask.pdb
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.dll
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\ref\SEMEShwtask.dll
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.pdb
+C:\Users\Lenovo\source\repos\SEMEShwtask\SEMEShwtask\obj\Debug\net5.0\SEMEShwtask.genruntimeconfig.cache
