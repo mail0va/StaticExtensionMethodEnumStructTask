@@ -9,8 +9,8 @@ namespace SEMEShwtask
     public static class Extension
     {
         public static bool CheckNotRobotCode(this string robotCode)
-        {
-            if (robotCode.Length < 5 && robotCode.Length > 1)
+        {        
+            if (robotCode.Length == 4)
             {
                 return true;
             }

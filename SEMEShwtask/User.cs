@@ -15,10 +15,10 @@ namespace SEMEShwtask
         public string NotRobotCode { get; set; }
         public RegistrationMonth Month { get; set; }
 
-        public string GetDetails(int id, string name, string surname, int notRobotCode, int registrationMonth)
-        {
-            return $"{id}{name}{surname}{notRobotCode}{registrationMonth}";
-        }
+        //public string GetDetails(int id, string name, string surname, int notRobotCode, int registrationMonth)
+        //{
+        //    return $"{id}{name}{surname}{notRobotCode}{registrationMonth}";
+        //}
         public enum RegistrationMonth
         {
             January = 1,
@@ -40,19 +40,24 @@ namespace SEMEShwtask
             Id = id++;
             Name = name;
             Surname = surname;
-            this.Month = month;
-            this.NotRobotCode = notRobotCode;
+            Month = month;
+            NotRobotCode = notRobotCode;
         }
-        public (int, string, string, string, RegistrationMonth) GetDetails()
+        public string GetDetails()
         {
-            if (Extension.CheckNotRobotCode(NotRobotCode))
+  
+            if (NotRobotCode.CheckNotRobotCode())
             {
-                return (Id, Name, Surname, NotRobotCode, Month);
+                return $"Id:{Id}  Name:{Name}  Surname:{Surname}  NotRobotCode:{NotRobotCode}  Month:{Month}";
+
+                //return (Id, Name, Surname, NotRobotCode, Month);
             }
             else
             {
-                Console.WriteLine("Not a correct password entered for below registered user");
-                return (Id, Name, Surname, NotRobotCode, Month);
+                //return $"{Id} {Name} {Surname} {NotRobotCode} {Month}";
+
+              
+                return $"Id:{Id}  Name:{Name}  Surname:{Surname}   Month:{Month}, NotRobotCode is not correct ";
             }
         }
     }
